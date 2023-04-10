@@ -13,5 +13,7 @@ public class Day2Demo {
 		
 	}
 	
+	int age = 120;
+	
 //this is the change I want to get
 }
